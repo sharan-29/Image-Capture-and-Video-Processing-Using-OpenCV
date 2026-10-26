@@ -39,8 +39,8 @@ Display Video or Image. Use 'imshow' to display the captured video frame or imag
 End Program with 'q'. Allow the program to be terminated by pressing the 'q' key.
 
 ## Program:
-### Developed By: SHRAVANI M
-### Register No: 212224230263
+### Developed By: SHARAN KUMAR G
+### Register No: 212224230260
 ``` Python
 
 ## i) Write the frame as JPG file
@@ -120,7 +120,7 @@ cap.release()
 
 ### i) Write the frame as JPG image
 </br>
-<img width="615" height="485" alt="image" src="https://github.com/user-attachments/assets/c7c13f67-9808-4963-9a81-0b7b81c37f2e" />
+
 
 
 </br>
@@ -128,14 +128,14 @@ cap.release()
 
 ### ii) Display the video
 </br>
-<img width="625" height="445" alt="image" src="https://github.com/user-attachments/assets/9df6a558-33e2-4009-baf9-b4a450f1e141" />
+
 
 </br>
 
 
 ### iii) Display the video by resizing the window
 </br>
-<img width="357" height="440" alt="image" src="https://github.com/user-attachments/assets/8867c25d-24d6-4729-a59b-2d6248955563" />
+
 
 
 </br>
@@ -144,7 +144,7 @@ cap.release()
 
 ### iv) Rotate and display the video
 </br>
-<img width="415" height="440" alt="image" src="https://github.com/user-attachments/assets/3ac21379-a041-4f7d-a337-bb55c56badc4" />
+
 
 
 </br>
